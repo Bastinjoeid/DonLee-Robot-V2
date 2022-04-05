@@ -83,15 +83,15 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 
 <p align="center">
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
-</p>
+You can deploy this bot anywhere
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bastinjoeid/DonLee-Robot-V2)</br>
+   <a  href= *https://youtu.be/LCrkRTMkmzE*>
+   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+   <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
+   </a>
+   </p>
 
-<p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
-</p>
-
-----
-
-<p align="center">
 ↪️ 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐃 ↩️
 </p>
 
